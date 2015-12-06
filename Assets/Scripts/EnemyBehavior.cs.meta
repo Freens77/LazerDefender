@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8fba8d14c7d467742bf24d0f3b18abae
+timeCreated: 1447209856
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - projectile: {instanceID: 0}
+  - enemyShootingSound: {fileID: 8300000, guid: 9fe68b8f4ecd16b4f8af4e8bf8eca001,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
